@@ -25,7 +25,6 @@ degrees:
     outOf: 1
   publications: #(optional)
   - title: Transformer-based Retrieval Algorithm for 3D Mechanical Parts.
-    url: "#"
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
 #    showGrades: true
