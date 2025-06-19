@@ -62,7 +62,7 @@ params:
   logo:
     main: /images/site/main-logo.png
     inverted: /images/site/inverted-logo.png
-    favicon: /images/site/favicon.png
+    # favicon: /images/site/favicon.png
 
   # GitHub repo of your site
   gitRepo: https://github.com/Yaxuan-7/Yaxuan-7.github.io
