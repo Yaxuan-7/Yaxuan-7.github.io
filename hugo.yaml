@@ -1,6 +1,6 @@
 baseURL: https://yaxuan-7.github.io/
 
-languageCode: bn
+languageCode: en-us
 title: "Yaxuan's Portfolio"
 
 # Use Hugo modules to add theme
@@ -95,7 +95,7 @@ params:
 
     # Enable and configure blog posts
     blog:
-      enable: true
+      enable: false
       showAuthor: true # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
@@ -108,7 +108,7 @@ params:
 
     # Enable & configure "Notes" features
     notes:
-      enable: true
+      enable: false
 
     # Enable comment feature. There, should be only one of them.
     comment:
