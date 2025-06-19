@@ -104,9 +104,4 @@ skills:
   summary: "Containerizing applications with Docker for consistent environments."
   url: "https://www.docker.com/"
 
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Basic knowledge of orchestrating containerized applications with Kubernetes."
-  url: "https://kubernetes.io/"
-
 
