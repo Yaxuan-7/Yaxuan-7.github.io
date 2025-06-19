@@ -1,7 +1,7 @@
 baseURL: https://yaxuan-7.github.io/
 
 languageCode: bn
-title: "John's Blog"
+title: "Yaxuan's Portfolio"
 
 # Use Hugo modules to add theme
 module:
@@ -25,11 +25,6 @@ languages:
     languageName: English
     title: "John's Blog"
     weight: 1
-  bn:
-    languageCode: bn
-    languageName: বাংলা
-    title: জনের ব্লগ
-    weight: 2
 # default language for the content
 defaultContentLanguage: en
 
@@ -104,11 +99,7 @@ params:
       showAuthor: true # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
-        facebook: true
-        twitter: true
         linkedin: true
-        reddit: true
-        whatsapp: true
         email: true
         # tumblr: true
         # pocket: true
