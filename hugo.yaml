@@ -23,7 +23,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Yaxuan's Portfolio"
     weight: 1
 # default language for the content
 defaultContentLanguage: en
@@ -67,7 +67,7 @@ params:
   # GitHub repo of your site
   gitRepo: https://github.com/Yaxuan-7/Yaxuan-7.github.io
   # Default branch of your Git repo
-  gitBranch: main
+  gitBranch: git-pages
 
   # Configure the number of section title visible in the top navbar
   topNavbar:
